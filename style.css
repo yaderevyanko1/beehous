@@ -214,6 +214,6 @@ h2 {
 
 .video {
     display: flex;
-    justify-content: center;
+    justify-content: space-between ;
     
 }
